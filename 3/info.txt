@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Asul-Regular
+font link: https://fonts.google.com/specimen/Asul
+font author: Mariela Monsalve
+font author site: http://www.mukamonsalve.com.ar/
+
+
+icon designer: LUTFI GANI AL ACHMAD
+icon designer link: /lutfidiarycoc
+        
+
+fontColor: {"gradient-0":"#E46F21","gradient-1":"#04215A"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#E46F21","gradient-1":"#04215A"}
+
+      
